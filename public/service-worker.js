@@ -70,7 +70,7 @@ self.addEventListener('fetch', e => {
             //make clone of response//
             const clone = res.clone();
             //open cache
-            caches.open(cacheName)
+            caches.open(CACHE_NAME)
                 .then(cache => {
                     //add response to cache
                     cache.put(e.request, clone);
