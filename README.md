@@ -9,7 +9,7 @@
 # <img src="./public/images/19lan.png"  alt="list of software languages used">
 ## Links to project 
 * Github: https://github.com/AndreBlankholm/budget-tracker
-* Heroku: https://git.heroku.com/serene-escarpment-81832.git
+* Heroku: https://serene-escarpment-81832.herokuapp.com/
 #
 Screenshot:
 # <img src="./public/images/chal 19 2022-07-15 173404.png"  alt="picture of budget-tracker app">
